@@ -1,7 +1,8 @@
 package org.korede;
 
-public class Main {
+public class HotelApplication {
     public static void main(String[] args) {
-        System.out.println("Hello world!");
+        MainMenu.mainMenu();
+
     }
 }
